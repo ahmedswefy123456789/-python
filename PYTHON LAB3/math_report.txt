@@ -1,0 +1,3 @@
+Number: 1.0, Floor: 1, Ceil: 1, Sqrt: 1.0, Area: 3.141592653589793
+Number: 2.0, Floor: 2, Ceil: 2, Sqrt: 1.4142135623730951, Area: 12.566370614359172
+Number: 6.0, Floor: 6, Ceil: 6, Sqrt: 2.449489742783178, Area: 113.09733552923255
